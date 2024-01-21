@@ -1,5 +1,7 @@
 /*
 Data Cleaning in SQL
+Data used can be found here:
+https://github.com/reyjeeve/Data-Analyst-Portfolio/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx
 */
 
 Select *
