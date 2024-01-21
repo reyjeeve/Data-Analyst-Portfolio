@@ -1,6 +1,7 @@
 --Looking at Total Cases vs Total Deaths
 --Shows the likelihood of dying if Covid is Contracted
-
+-- Data used can be found on:
+-- https://drive.google.com/drive/folders/18hV_c4WdULDzQ1nDw5_sAlgjEMTKa4YX?usp=sharing (WHO Data)
 SELECT
 	Location, 
 	date,
